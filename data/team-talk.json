@@ -1,0 +1,111 @@
+{
+  "messages": [
+    {
+      "id": "dce2fff1-0dd6-4605-8c20-43d7c13d66ed",
+      "content": "hello",
+      "createdAt": "2026-05-15T10:30:58.663Z",
+      "updatedAt": "2026-05-15T10:30:58.663Z",
+      "kind": "message",
+      "author": {
+        "id": "system-admin:admin@amolex.tech",
+        "name": "Admin User",
+        "email": "admin@amolex.tech",
+        "role": "admin",
+        "position": "Administrator",
+        "photoUrl": null,
+        "active": true,
+        "isSystem": true,
+        "kind": "system"
+      },
+      "mentions": []
+    },
+    {
+      "id": "88f701ff-8221-425f-af45-2b6ca27a39e3",
+      "content": "check the social media accounts",
+      "createdAt": "2026-05-15T10:31:19.315Z",
+      "updatedAt": "2026-05-15T10:31:19.315Z",
+      "kind": "message",
+      "author": {
+        "id": "system-admin:admin@amolex.tech",
+        "name": "Admin User",
+        "email": "admin@amolex.tech",
+        "role": "admin",
+        "position": "Administrator",
+        "photoUrl": null,
+        "active": true,
+        "isSystem": true,
+        "kind": "system"
+      },
+      "mentions": []
+    },
+    {
+      "id": "237bf49b-5295-4b19-98bc-94c0120e64ab",
+      "content": "Turn this into a short announcement for the team.",
+      "createdAt": "2026-05-15T10:31:30.638Z",
+      "updatedAt": "2026-05-15T10:31:30.638Z",
+      "kind": "message",
+      "author": {
+        "id": "system-admin:admin@amolex.tech",
+        "name": "Admin User",
+        "email": "admin@amolex.tech",
+        "role": "admin",
+        "position": "Administrator",
+        "photoUrl": null,
+        "active": true,
+        "isSystem": true,
+        "kind": "system"
+      },
+      "mentions": []
+    },
+    {
+      "id": "7e87bc24-643f-4dcd-96cb-4ccc60d0146f",
+      "content": "Draft a short follow-up message for the team.",
+      "createdAt": "2026-05-15T10:31:46.143Z",
+      "updatedAt": "2026-05-15T10:31:46.143Z",
+      "kind": "message",
+      "author": {
+        "id": "system-admin:admin@amolex.tech",
+        "name": "Admin User",
+        "email": "admin@amolex.tech",
+        "role": "admin",
+        "position": "Administrator",
+        "photoUrl": null,
+        "active": true,
+        "isSystem": true,
+        "kind": "system"
+      },
+      "mentions": []
+    },
+    {
+      "id": "9d9366f9-de0c-4d40-bd12-e41d5a5454f5",
+      "content": "@Admin User next",
+      "createdAt": "2026-05-15T10:39:23.878Z",
+      "updatedAt": "2026-05-15T10:39:23.878Z",
+      "kind": "message",
+      "author": {
+        "id": "system-admin:admin@amolex.tech",
+        "name": "Admin User",
+        "email": "admin@amolex.tech",
+        "role": "admin",
+        "position": "Administrator",
+        "photoUrl": null,
+        "active": true,
+        "isSystem": true,
+        "kind": "system"
+      },
+      "mentions": [
+        {
+          "id": "system-admin:admin@amolex.tech",
+          "name": "Admin User",
+          "email": "admin@amolex.tech",
+          "role": "admin",
+          "position": "Administrator",
+          "photoUrl": null,
+          "active": true,
+          "isSystem": true
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-15T10:39:23.886Z"
+}

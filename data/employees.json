@@ -1,0 +1,13 @@
+[
+  {
+    "id": "7b542030-5c1e-4d5a-b851-3440e2fb2dea",
+    "name": "Tewodros Abrham",
+    "email": "teddyyo93@gmail.com",
+    "passwordHash": "af5a469d03fe65acff5af8c4a882f4a3:23d131da438656f51f3231b5a1091dd7bc76f3cb6144cb66eef6985ec870c6e738dc0da2206c082631dfe1d6b85a1bbc1f4e31151ebdf72c3231c58b4b0f9ac3",
+    "role": "employee",
+    "tenantId": null,
+    "active": true,
+    "createdAt": "2026-05-15T07:48:56.080Z",
+    "updatedAt": "2026-05-15T07:48:56.080Z"
+  }
+]
